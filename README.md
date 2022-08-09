@@ -1,5 +1,4 @@
-<a href="https://www.linkedin.com/in/dennis-kibe-070600181/"> <img src="https://cdn.dribbble.com/users/5485/screenshots/2187027/programming_1x.png" alt="programming" ></a>
-<h1 align="center">Hi 👋, I'm Dennis Stanley Kibe</h1>
+<a href="https://www.linkedin.com/in/dennis-kibe-070600181/"><h1 align="center">Hi 👋, I'm Dennis Stanley Kibe</h1></a>
 <h3 align="center">A passionate frontend engineer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
