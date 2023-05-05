@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dennis-tech" alt="dennis-tech" /></a> </p>
 
-- 🔭 I’m currently working on **Accession card system**
+- 🔭 I’m currently working on **Scrimba Front End career development path**
 
-- 🌱 I’m currently learning **Scrimba Front End career development path & ALX software engineering program**
+- 🌱 I’m currently learning **Scrimba Front End career development path**
 
 - 💬 Ask me about **html, css, js, react, c#**
 
