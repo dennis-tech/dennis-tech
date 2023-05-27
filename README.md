@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Dennis Stanley Kibe</h1>
-<h3 align="center">A passionate frontend engineer from Kenya</h3>
+<h3 align="center">A passionate Software Developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dennis-tech" alt="dennis-tech" /></a> </p>
 
 - 🔭 I’m currently working on **Scrimba Front End career development path**
 
-- 🌱 I’m currently learning **Scrimba Front End career development path**
+- 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **html, css, js, react, c#**
+- 💬 Ask me about **html, css, js, firebase**
 
 - 📫 How to reach me **hedenniskibe@gmail.com**
 
-- ⚡ Fun fact **I am an artist**
+- ⚡ Fun fact **I love music when coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
