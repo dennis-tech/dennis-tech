@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dennis Stanley Irungu</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h1 align="center">Hi 👋, I'm Dennis Irungu</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dennis-tech" alt="dennis-tech" /></a> </p>
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [FrontEnd Development Career Path Course](https://scrimba.com/learn/frontend)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJs**
 
 - 💬 Ask me about **Html,Css,Javascript,React**
 
-- 📫 How to reach me **hedenniskibe@gmail.com**
+- 📫 How to reach me **dennisstanleyki@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
