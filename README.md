@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/stanleysstar" target="blank"><img src="https://img.shields.io/twitter/follow/stanleysstar?logo=twitter&style=for-the-badge" alt="stanleysstar" /></a> </p>
 
-- 🔭 I’m currently working on [FrontEnd Development Career Path Course](https://scrimba.com/learn/frontend)
+- 🔭 I’m currently working on [NextJs](...)
 
 - 🌱 I’m currently learning **NextJs**
 
